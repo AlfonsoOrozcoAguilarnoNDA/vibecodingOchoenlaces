@@ -29,14 +29,15 @@ https://vibecodingmexico.com/vibecoding-ocho-enlaces-a-llm/
 
 Ganador Cohere
 
-Candidato,Calificación,Perfil Profesional,"Factor de ""Activo Fijo"""
-🏆 Cohere,9.6,Arquitecto Visual,Premium: El mejor diseño “listo para usar”.
-💎 Qwen3,9.5,**El Aliado Leal**,Soberano: El único que es tuyo y corre localmente.
-🛡️ Gemini,9.5,Ingeniero Senior,Estructural: El más riguroso en reglas técnicas.
-💼 Claude,9.5,Consultor Senior,Elegancia: Calidad indiscutible de presentación.
-🚀 Grok,9.4,Analista Estratega,Proactivo: Visión de futuro y datos extra.
-🎨 Mistral,9.2,Vanguardista,Estilo: El poder de lo moderno (pese al error h1).
-📉 Copilot,6.0,Becario Flojo,Obsolescencia: Dependencia total y baja calidad.
+| Candidato | Calificación | Perfil Profesional | Factor de "Activo Fijo" |
+| :--- | :---: | :--- | :--- |
+| **🏆 Cohere** | **9.6** | Arquitecto Visual | **Premium:** El mejor diseño "listo para usar". |
+| **💎 Qwen3** | **9.5** | El Aliado Leal | **Soberano:** El único que es tuyo y corre localmente. |
+| **🛡️ Gemini** | **9.5** | Ingeniero Senior | **Estructural:** El más riguroso en reglas técnicas. |
+| **💼 Claude** | **9.5** | Consultor Senior | **Elegancia:** Calidad indiscutible de presentación. |
+| **🚀 Grok** | **9.4** | Analista Estratega | **Proactivo:** Visión de futuro y datos extra. |
+| **🎨 Mistral** | **9.2** | Vanguardista | **Estilo:** El poder de lo moderno (pese al error h1). |
+| **📉 Copilot** | **6.0** | Becario Flojo | **Obsolescencia:** Dependencia total y baja calidad. |
 
 Muy simple. El nombre de la Inteligencia Artificial en turno. De qwen hay dos versiones
 * **`qwen.php`**: qwen 3 original
