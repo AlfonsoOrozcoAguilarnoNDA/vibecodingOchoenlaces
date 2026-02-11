@@ -1,4 +1,4 @@
-# vibecodingFavoritos (Feb 2026)
+# vibecodingOchoenlaces (Feb 2026)
 ### Comparativa de Vibe Coding Para tarea simple de Boostrap
 
 Este es uno de los experimentos semanales que realizo en vibecodingmexico.com  
