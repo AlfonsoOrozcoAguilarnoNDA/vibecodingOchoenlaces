@@ -3,7 +3,7 @@
 
 Este es uno de los experimentos semanales que realizo en vibecodingmexico.com  
 
-Este repositorio es el resultado de un experimento de vibecoding **Enfocado a empresas medianas LATAM 2026** realizado el 11 de febrero de 2026. La misión: crear un barra de navegación para incorporaren otros proyectos con enlaces a las LLM masusadas.
+Este repositorio es el resultado de un experimento de vibecoding **Enfocado a empresas medianas LATAM 2026** realizado el 11 de febrero de 2026. La misión: crear un barra de navegación para incorporaren otros proyectos con enlaces a las LLM mas usadas.
 
 ## ⚖️ Sobre la Licencia
 He elegido la **Licencia MIT** por su simplicidad. Es lo más cercano a una "Creative Commons" para código: haz lo que quieras con él, solo mantén el crédito del autor. 
